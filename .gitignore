@@ -3,3 +3,6 @@
 .vscode
 json.sqlite
 package-lock.json
+config.js
+config.ts
+config.js.map
